@@ -6,7 +6,7 @@ Viszont érdemes egy külön mappába belerakni, mert indításkor létre fog ho
 -- Észervétel --
 Az értesítést küldő funkció valamiért a .exe formátumú fájlomban nem működik, de a forráskóddal viszont igen. (pythonnal dolgoztam)
 
-A funkciója csak annyi lett volna, hogy a beállított ídőpontban küld egy asztali értesítést, függetlenül az operációs rendszertől.
+A funkciója csak annyi lett volna, hogy a beállított időpontban küld egy asztali értesítést, függetlenül az operációs rendszertől.
 
 
 Remélem tetszeni fog az alkalmazásom a zsűrinek. :)
